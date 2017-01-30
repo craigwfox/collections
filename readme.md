@@ -1,4 +1,7 @@
 # Collections App
-A web app to store and manage collections.
+###### A web app to store and manage collections.
 
-<em>by - Craig Fox</em>
+<br>
+
+- By: Craig Fox | [craigwfox.com](http://craigwfox.com)
+- URL: [github.com/craigwfox/Simple-Starter-Theme](https://github.com/craigwfox/Simple-Starter-Theme)
